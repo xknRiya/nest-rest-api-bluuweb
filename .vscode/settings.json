@@ -1,0 +1,7 @@
+{
+    "[javascript]": {"editor.tabSize": 2},
+    "[typescript]": {
+        "editor.tabSize": 2,
+    },
+    "material-icon-theme.activeIconPack": "nest"
+}
